@@ -9,4 +9,12 @@ export class HomePage {
 
   constructor() {}
 
+  public accordionGroupChange(event: Event): void {
+    console.log("accordion changing");
+  }
+
+  public clickTest(){
+    console.log("CLICK!");
+  }
+
 }
