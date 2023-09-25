@@ -1,0 +1,7 @@
+{
+  "name": "accordion-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
